@@ -1,0 +1,27 @@
+# Environment files with credentials
+.env
+.env.local
+credentials.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Screenshots and temporary files
+/tmp/
+*.png
+*.jpg
+*.jpeg
+
+# Output files
+availability-*.json
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
